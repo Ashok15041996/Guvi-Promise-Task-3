@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    font-size: 2rem;
+    color: #333;
+}
+
+#data-container {
+    margin-top: 20px;
+}
+
+.data-card {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.data-card h3 {
+    margin-bottom: 10px;
+    font-size: 1.5rem;
+    color: #007bff;
+}
+
+.data-card p {
+    margin: 0;
+    font-size: 1rem;
+    color: #555;
+}
